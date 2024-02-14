@@ -4,7 +4,7 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Optical Character Recognition (OCR) Dataset](https://www.kaggle.com/datasets/preatcher/standard-ocr-dataset/data). 
+The dataset used in this project can be found on Kaggle: [Optical Character Recognition (OCR) Dataset](https://www.kaggle.com/datasets/harieh/ocr-dataset/). 
 
 ## Getting Started
 To get started with this project:
