@@ -1,6 +1,6 @@
 # Deep Learning based Optical Character Recognition
 <p align="center">
-  <img src="https://github.com/akhilchibber/Optical-Character-Recognition/blob/main/Optical_Character_Recognition.webp?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Optical-Character-Recognition/blob/main/Optical-Character-Recognition.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
